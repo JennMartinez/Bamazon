@@ -21,10 +21,26 @@ When the quantity is inputed, the database will respond and display, the product
 
 The database will then check the system if Bamazon can fulfill the requested order based on inventory displaying the quantity available and the requested quantity by the user. 
 
-If the product and quantity chosen is **in stock**, the command line will display how much quantity of which product will be purchased, and the total amount that is due for the purchase.
-
 If the product and quantity chosen is **not in stock**, the command line will display that Bamazon is out of stock, and will be restocked shortly. 
+
+If the product and quantity chosen is **in stock**, the command line will display how much quantity of which product will be purchased, and the total amount that is due for the purchase.
 
 Below are screenshots of the different commands, which will provide a visual step-by-step process of how Bamazon can be utilized:
 
+**Product List**
 ![Image of product_list](assets/images/product_list.png)
+
+**Prompts For Product ID and Quantity**
+![Image of product_list](assets/images/prompts.png)
+
+**If Stock Does NOT Exists**
+![Image of product_list](assets/images/no_stock.png)
+
+**Product List**
+![Image of product_list](assets/images/products.png)
+
+**Prompts For Product ID and Quantity**
+![Image of product_list](assets/images/prompt.png)
+
+**If Stock Quantity Exists**
+![Image of product_list](assets/images/stock.png)
