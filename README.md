@@ -28,19 +28,19 @@ If the product and quantity chosen is **in stock**, the command line will displa
 Below are screenshots of the different commands, which will provide a visual step-by-step process of how Bamazon can be utilized:
 
 **Product List**
-![Image of product_list](assets/images/product_list.png)
+![Image of product list](assets/images/product_list.png)
 
 **Prompts For Product ID and Quantity**
-![Image of product_list](assets/images/prompts.png)
+![Image of prompts](assets/images/prompts.png)
 
 **If Stock Does NOT Exists**
-![Image of product_list](assets/images/no_stock.png)
+![Image of no stock](assets/images/no_stock.png)
 
 **Product List**
-![Image of product_list](assets/images/products.png)
+![Image of product list](assets/images/products.png)
 
 **Prompts For Product ID and Quantity**
-![Image of product_list](assets/images/prompt.png)
+![Image of prompts](assets/images/prompt.png)
 
 **If Stock Quantity Exists**
-![Image of product_list](assets/images/stock.png)
+![Image of in stock](assets/images/stock.png)
